@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
 
 :root {
-    --branco: white;
+    --branco: rgb(0, 0, 0);
     --cor-de-fundo: #b89742;
     --fundo-senha: #eec96c;
     --fundo-texto: #eec96c;
@@ -19,7 +19,7 @@
 }
 
 body {
-    color: var(--branco);
+    color:white;
     background-image: url(Imagem\ do\ WhatsApp\ de\ 2025-06-06\ à\(s\)\ 15.18.50_649655d0.jpg);
     font-family: var(--roboto);
 }
